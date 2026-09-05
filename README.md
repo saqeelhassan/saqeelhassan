@@ -1,4 +1,4 @@
-# Hi, I'm Aqeel Hassan Gilani 👋
+# Hi, I'm Aqeel Hassan Gillani 👋
 ### Full-Stack Developer & Founder at De Weboo
 
 I architect and develop robust, high-performance web applications, enterprise dashboards, and custom digital platforms. Experienced in designing scalable backend systems, custom APIs, and modern responsive frontends.
